@@ -1,0 +1,19 @@
+{
+  "name": "angular.build.toolchain",
+  "version": "1.0.0",
+  "description": "Angular Build Toolchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs1193/angular.build.toolchain.git"
+  },
+  "author": "Chandresh Rajkumar Manonmani <chandresh.rm@gmail.com> (http://chandreshrm.name)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/cs1193/angular.build.toolchain/issues"
+  },
+  "homepage": "https://github.com/cs1193/angular.build.toolchain#readme"
+}
